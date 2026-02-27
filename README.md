@@ -35,10 +35,10 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-* Command 1 (ls -a) this command shows all files including the hidden one in the current directory , a good command to view stuff for code.
-* Command 2 (mkdir) this command creates a new empty folder in the current directory , I found it really effiecient because it's quick and easy to make new folder. 
+Command 1 (ls -a) this command shows all files including the hidden one in the current directory , a good command to view stuff for code.
+Command 2 (mkdir) this command creates a new empty folder in the current directory , I found it really effiecient because it's quick and easy to make new folder. 
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*Hello prospective junior , after I spent half a year in ISNE group I would say to keep in track and keep being persistence ! Ask questions if you have one , the teachers are very friendly and welcome to help you it somestimes can get complicated ( especially coding ) so try , try to not give up and practice !! in the end I'm pretty sure you can do it. 
+Hello prospective junior , after I spent half a year in ISNE group I would say to keep in track and keep being persistence ! Ask questions if you have one , the teachers are very friendly and welcome to help you it somestimes can get complicated ( especially coding ) so try , try to not give up and practice !! in the end I'm pretty sure you can do it. 
